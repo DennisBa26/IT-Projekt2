@@ -10,7 +10,7 @@
 #include <openssl/rand.h>
 #include <time.h>
 #include "api.h"
-#include "aes_utils.h"
+#include "/Users/flrnvsc/Documents/Visual Studio 2015/IT-Projekt2/IT-Projekt2/IT-Projekt2/include/PQClean/crypto_kem/kyber1024/clean/api.h"
 #define SERVER_IP "127.0.0.1"
 #define SERVER_PORT 8080
 #define URL "https://ogcapi.hft-stuttgart.de/sta/icity_data_security/v1.1"

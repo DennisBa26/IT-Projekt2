@@ -8,7 +8,7 @@
 #include <openssl/sha.h>
 #include <time.h>
 #include "api.h"
-#include "aes_utils.h"
+#include "/Users/flrnvsc/Documents/Visual Studio 2015/IT-Projekt2/IT-Projekt2/IT-Projekt2/include/PQClean/crypto_kem/kyber1024/clean/api.h"
 #define PORT 8080
 #define ITERATIONS 1000
 #define CSV_FILE "server_timings.csv"

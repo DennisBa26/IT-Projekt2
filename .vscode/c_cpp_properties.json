@@ -4,7 +4,6 @@
             "name": "Mac",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/opt/homebrew/opt/openssl@3",
                 "/opt/homebrew/Cellar/openssl@3/3.4.0/**"
             ],
             "defines": [],
