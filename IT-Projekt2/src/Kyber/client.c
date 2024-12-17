@@ -62,7 +62,7 @@ int main() {
     curl_global_cleanup();
     uint8_t public_key[PQCLEAN_KYBER1024_CLEAN_CRYPTO_PUBLICKEYBYTES];
     uint8_t ciphertext[PQCLEAN_KYBER1024_CLEAN_CRYPTO_CIPHERTEXTBYTES];
-    uint8_t shared_secret[PQCLEAN_KYBER1024_CLEAN_CRYPTO_BYTES]
+    uint8_t shared_secret[PQCLEAN_KYBER1024_CLEAN_CRYPTO_BYTES];
     double total_encap_time = 0;
     FILE *csv_file = fopen(CSV_FILE, "w");
     FILE *log_file = fopen(LOG_FILE, "w");
